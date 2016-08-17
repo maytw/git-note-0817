@@ -26,8 +26,10 @@ git checkout master  --> 回復到最後的改版 (有2次更改的狀態)
 
 ---------------------------------------
 
-git remote add origin https://github.com/maytw/git.git
+git remote add origin https://github.com/maytw/git.git (依建立專案給的網路雲端)
 
 git push -u origin master (輸入帳號及密碼)
 
 檔案成功上傳到github網站
+
+git clone ___ (clone download複製web上檔案的網址)
